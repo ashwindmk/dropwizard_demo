@@ -1,0 +1,2 @@
+template: Hello and welcome, %s
+defaultName: User
